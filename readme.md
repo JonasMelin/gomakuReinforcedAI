@@ -17,3 +17,4 @@ In order to get a measure to see what player shall be elected master, a "Q-playe
 player is playing all AI players to see who wins. The Q-player is a very simple algortim that plays the game. But, no AI
 player is never allowed to learn from the Q-player.
 
+It also features a webserver based on javascript and React JS for online gaming! 
